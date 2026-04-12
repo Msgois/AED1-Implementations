@@ -9,9 +9,10 @@ Este repositório contém as implementações de algoritmos e estruturas de dado
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando:
-* **Linguagem Java**
+## 🛠️ Competências:
+* **[Git](https://git-scm.com)**
+* **[GitHub](https://github.com)**
+* **[Java](https://www.java.com)**
   
 ---
 
